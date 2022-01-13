@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">ANIMAL</string>
+    <string name="ikan_semut_amp_kelinci">Fish, Ant and Rabbit</string>
+    <string name="biodata">Profil</string>
+    // Layout
+    <string name="pilih_gambar">(Tap on picture to open gallery)</string>
+    <string name="daftar_ras_judul">List of Breeds</string>
+    <string name="kembali">Back</string>
+    <string name="ikan">Fish</string>
+    <string name="semut">Ant</string>
+    <string name="kelinci">Rabbit</string>
+    <string name="ikan_list_title">List of Fish Breeds</string>
+    <string name="semut_list_title">List of Ant Breeds</string>
+    <string name="kelinci_list_title">List of Rabbit Breeds</string>
+    // Data ikan
+    <string name="mas_koki_nama">Mas koki</string>
+    <string name="mas_koki_asal">Amazon</string>
+    <string name="mas_koki_deskripsi">Characteristics of this ornamental fish are its distended stomach and bright skin color with a beautiful pattern.</string>
+    <string name="guppy_nama">Guppy</string>
+    <string name="guppy_asal">Amerika Selatan</string>
+    <string name="guppy_deskripsi">This fish is one of the easiest types of aquarium ornamental fish to breed even in less clean water.</string>
+    <string name="cupang_nama">Cupang</string>
+    <string name="cupang_asal">Tropis</string>
+    <string name="cupang_deskripsi">Betta fish have wide and thin fins, this makes betta fish often thrown there to come even to jump out of the aquarium.</string>
+    <string name="molly_nama">Molly</string>
+    <string name="molly_asal">Hadagascar</string>
+    <string name="molly_deskripsi">Mollys fish have several types, among which the most popular is the black molly type. The name is adapted from its black color all over the body.</string>
+    <string name="neon_sutra_nama">Neon Sutra</string>
+    <string name="neon_sutra_asal">Amazon</string>
+    <string name="neon_sutra_deskripsi">Neon tetra fish is a type of fish that eats all or commonly called omnivores. The most common types of neon tetra fish are neon blue eyes, black neon, and fire neon.</string>
+    <string name="zebra_nama">Zebra</string>
+    <string name="zebra_asal">Amazon</string>
+    <string name="zebra_deskripsi">The small stripes that cross the body of this beautiful ornamental fish that make its name zebrafish. Like neon tetra fish, zebrafish also live in groups with their flocks.</string>
+    // Data semut
+    <string name="ochetellus_nama">ochetellus</string>
+    <string name="ochetellus_asal">laterille</string>
+    <string name="ochetellus_deskripsi">This ant measures 2.5 - 3 mm with shiny black color and often we find in the kitchen or bedroom</string>
+    <string name="solenopsis_spp_nama">Solenopsis spp</string>
+    <string name="solenopsis_spp_asal">Amazon, amerika selatan</string>
+    <string name="solenopsis_spp_deskripsi">This ant is copper brown on the head and body, with a darker color, this ant has a queen who has a length of 5/8mm and other things with its workers who have a length of 1/8 - 1/4</string>
+    <string name="tapinoma_melanocephalum_nama">Tapinoma melanocephalum</string>
+    <string name="tapinoma_melanocephalum_asal">kanada, amerika utara</string>
+    <string name="tapinoma_melanocephalum_deskripsi">The small stripes that cross the body of this beautiful ornamental fish that make its name zebrafish. Like neon tetra fish, zebrafish also live in groups with their flocks.</string>
+    <string name="tapinoma_sesile_nama">Tapinoma sesil</string>
+    <string name="tapinoma_sesile_asal">afrika</string>
+    <string name="tapinoma_sesile_deskripsi">This ant has 6 legs with 12 segment antennae and is not ended with a point, eating sweet foods such as sugar and sweets.</string>
+    <string name="monomorium_pharaonis_nama">Monomorium pharaonis</string>
+    <string name="monomorium_pharaonis_asal">Jerman</string>
+    <string name="monomorium_pharaonis_deskripsi">This type of ant is attracted to foods that have high protein such as meat, fat, dead insects etc.</string>
+    <string name="camponotus_ennsylvanicus_nama">Camponotus_ennsylvanicus</string>
+    <string name="camponotus_pennsylvanicus_asal">Jepang</string>
+    <string name="camponotus_pennsylvanicus_deskripsi">Ants are often found in moist wood and also dry wood, this type of ant eats sweet liquids, plant residues, and insect residues.</string>
+    // Data kelinci
+    <string name="netherland_dwarf_nama">netherland_dwarf</string>
+    <string name="netherland_dwarf_asal">India</string>
+    <string name="netherland_dwarf_deskripsi">Rabbits originating from the Netherlands weighing 1.1-2.5 pounds, dutch dwarfs are one of the smallest rabbit breeds.</string>
+    <string name="orictolagus_cuniculus_nama">orictolagus_cuniculus</string>
+    <string name="orictolagus_cuniculus_asal">Indochina</string>
+    <string name="orictolagus_cuniculus_deskripsi">The orictolagus cuniculus rabbit also called the European rabbit or domestic rabbit is the only species in its genus.</string>
+    <string name="holland_lop_nama">holland_lop</string>
+    <string name="holland_lop_asal">Semenanjung Malaysia</string>
+    <string name="holland_lop_deskripsi">Holland lop rabbit is an independent and playfulla rabbit.</string>
+    <string name="mini_lop_nama">mini_lop</string>
+    <string name="mini_lop_asal">Sumatera, Indonesia</string>
+    <string name="mini_lop_deskripsi">It is a type of domestic rabbit that is acknowledged by the American Rabbit Association. </string>
+    <string name="raksasa_nama">raksasa</string>
+    <string name="raksasa_asal">Siberia</string>
+    <string name="raksasa_deskripsi">A very large type of domestic rabbit, usually considered to be the largest breed of its species.</string>
+    <string name="rex_nama">rex</string>
+    <string name="rex_asal">Hutan Cina Selatan</string>
+    <string name="rex_deskripsi">This rabbit has a large body, upright ears, and the characteristics that make this rex rabbit liked is its carpet-like fur.</string>
+
+</resources>

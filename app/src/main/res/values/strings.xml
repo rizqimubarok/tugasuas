@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">HEWAN</string>
+    <string name="ikan_semut_amp_kelinci">Ikan, Semut dan Kelinci</string>
+    <string name="biodata">Biodata</string>
+    // Layout
+    <string name="pilih_gambar">(Pilih gambar untuk membuka galeri)</string>
+    <string name="daftar_ras_judul">Daftar Ras Hewan</string>
+    <string name="kembali">Kembali</string>
+    <string name="ikan">Ikan</string>
+    <string name="semut">Semut</string>
+    <string name="kelinci">Kelinci</string>
+    <string name="ikan_list_title">Daftar Ras Ikan</string>
+    <string name="semut_list_title">Daftar Ras Semut</string>
+    <string name="kelinci_list_title">Daftar Ras Kelinci</string>
+    // Data ikan
+    <string name="mas_koki_nama">Mas koki</string>
+    <string name="mas_koki_asal">Amazon</string>
+    <string name="mas_koki_deskripsi">Karakteristik dari ikan hias ini adalah perutnya yang buncit dan warna kulit yang cerah dengan corak yang cantik.</string>
+    <string name="guppy_nama">Guppy</string>
+    <string name="guppy_asal">Amerika Selatan</string>
+    <string name="guppy_deskripsi">Ikan ini termasuk jenis ikan hias aquarium yang paling mudah dalam berkembang biak walaupun berada di dalam air yang kurang bersih.</string>
+    <string name="cupang_nama">Cupang</string>
+    <string name="cupang_asal">Tropis</string>
+    <string name="cupang_deskripsi">Ikan cupang memiliki sirip yang lebar dan tipis, ini membuat ikan cupang sering terlempar ke sana ke mari bahkan sampai meloncat keluar akuarium.</string>
+    <string name="molly_nama">Molly</string>
+    <string name="molly_asal">Hadagascar</string>
+    <string name="molly_deskripsi">Ikan Molly memiliki beberapa jenis, diantaranya yang paling populer adalah jenis black molly. Nama tersebut diadaptasi dari warnanya yang hitam sekujur tubuh.</string>
+    <string name="neon_sutra_nama">Neon Sutra</string>
+    <string name="neon_sutra_asal">Amazon</string>
+    <string name="neon_sutra_deskripsi">Ikan neon tetra ini adalah jenis ikan pemakan segala atau biasa disebut omnivora. Jenis ikan neon tetra yang paling sering dijumpai ialah neon blue eyes, black neon, dan fire neon.</string>
+    <string name="zebra_nama">Zebra</string>
+    <string name="zebra_asal">Amazon</string>
+    <string name="zebra_deskripsi">Garis-garis kecil yang melintangi tubuh ikan hias cantik ini yang membuat namanya ikan zebra. Seperti ikan neon tetra, ikan zebra juga hidup dengan berkelompok dengan kawanannya.</string>
+    // Data semut
+    <string name="ochetellus_nama">ochetellus</string>
+    <string name="ochetellus_asal">laterille</string>
+    <string name="ochetellus_deskripsi">Semut ini berukuran 2,5 - 3 mm dengan warna hitam mengkilat dan sering kita jumpai di dapur atau kamar tidur</string>
+    <string name="solenopsis_spp_nama">Solenopsis spp</string>
+    <string name="solenopsis_spp_asal">Amazon, amerika selatan</string>
+    <string name="solenopsis_spp_deskripsi">Semut ini berwarna coklat tembaga pada kepala dan tubuh, dengan warna lebih gelap, semut ini memili ratu yg memili panjang 5/8mm dan lain hal nya dengan pekerja nya yg memiliki panjang 1/8 - 1/4</string>
+    <string name="tapinoma_melanocephalum_nama">Tapinoma melanocephalum</string>
+    <string name="tapinoma_melanocephalum_asal">kanada, amerika utara</string>
+    <string name="tapinoma_melanocephalum_deskripsi">kaki dan perut warna putih dengan panjang 1-16mm, ratu semut jenis ini berpoligami untuk menghasilkan telur</string>
+    <string name="tapinoma_sesile_nama">Tapinoma sesil</string>
+    <string name="tapinoma_sesile_asal">afrika</string>
+    <string name="tapinoma_sesile_deskripsi">Semut ini memiliki kaki 6 dengan antena 12 segmen dan tidak di akhiri dengan sebuah titik, memakan makanan manis seperti gula dan permen</string>
+    <string name="monomorium_pharaonis_nama">Monomorium pharaonis</string>
+    <string name="monomorium_pharaonis_asal">Jerman</string>
+    <string name="monomorium_pharaonis_deskripsi">Jenis semut ini tertarik pada makanan yg memiliki protein tinggi seperti daging, lemak, serangga mati dll.</string>
+    <string name="camponotus_ennsylvanicus_nama">Camponotus_ennsylvanicus</string>
+    <string name="camponotus_pennsylvanicus_asal">Jepang</string>
+    <string name="camponotus_pennsylvanicus_deskripsi">Semut ini kerap kali dijumpai pada kayu lembab dan juga kayu kering, jenis semut ini memakan cairan manis, sisa tanaman, dan sisa serangga</string>
+    // Data harimau
+    <string name="netherland_dwarf_nama">netherland_dwarf</string>
+    <string name="netherland_dwarf_asal">India</string>
+    <string name="netherland_dwarf_deskripsi">kelinci yang berasal dari belanda dengan berat 1,1-2,5 pon,Dwarf belanda adalah satu ras kelinci terkecil</string>
+    <string name="orictolagus_cuniculus_nama">orictolagus_cuniculus</string>
+    <string name="orictolagus_cuniculus_asal">Indochina</string>
+    <string name="orictolagus_cuniculus_deskripsi">kelinci orictolagus cuniculus juga disebut kelinci eropa atau kelinci domestik adalah satu satunya spesies dalam genusnya</string>
+    <string name="holland_lop_nama">holland_lop</string>
+    <string name="holland_lop_asal">Semenanjung Malaysia</string>
+    <string name="holland_lop_deskripsi">kelinci jenis holland lop adalah kelinci yang independent dan playfulla</string>
+    <string name="mini_lop_nama">mini_lop</string>
+    <string name="mini_lop_asal">Sumatera, Indonesia</string>
+    <string name="mini_lop_deskripsi">Adalah jenis kelinci domestik yang di akui oleh american rabbit association </string>
+    <string name="raksasa_nama">raksasa</string>
+    <string name="raksasa_asal">Siberia</string>
+    <string name="raksasa_deskripsi">jenis kelinci domestik yang sangat besar,biasanya dianggap sebagai jenis terbesar dari spesiesnya</string>
+    <string name="rex_nama">rex</string>
+    <string name="rex_asal">Hutan Cina Selatan</string>
+    <string name="rex_deskripsi">kelinci ini mempunyai tubuh yang besar,telinga yang tegak,dan ciri khas yang menjadikan kelinci rex ini di sukai adalah bulunya yang seperti karpet</string>
+    <string name="dafter_ras_hewan">Dafter Ras Hewan</string>
+</resources>
